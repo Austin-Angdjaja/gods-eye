@@ -44,7 +44,7 @@ Which brings us to our first mandate.
 
 ### "The risk of ruin must be minimized, eliminated, or held as close to zero as reality allows."
 
-Translated: before anything, you take the chance of hitting $0 out of the equation, and if that's not possible, you take that chance as close to 0% as possible. Compounding is a byproduct of survival.
+Translated: before anything, you take the chance of hitting $0 out of the equation, and if that's not possible, you take that chance as close to 0%. Compounding is a byproduct of survival.
 
 # OF HORIZONS AND TIMEFRAMES
 When you trade or invest, think of the horizon. Do you want to be doing this again a month in the future? A year? What about a decade? Or the rest of your lives?
