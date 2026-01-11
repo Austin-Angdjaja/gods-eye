@@ -113,10 +113,15 @@ Again, all fine.
 
 And again, horizons and timeframes, my friend.
 
+# CONCLUDING
 People think of sizing as, "if I'm careful enough, I can mostly avoid being wrong."
 
-I'm here to tell you: it's not about avoiding being wrong. It's about the one time you didn't.
+I'm here to tell you: it's not about not being wrong. It's about the one time you were.
 
-Over years and decades, you will be wrong.
+Over years and decades, you **will** be wrong.
 
-Size so you don't blow up if something bad happens. Size because bad outcomes are the default in markets, not the anomaly.
+Size so you don't blow up if something bad happens. 
+
+Size because bad outcomes are the default in markets, not the anomaly.
+
+Black swans are just the cherry on top.
