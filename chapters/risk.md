@@ -6,7 +6,7 @@ Modern finance struggles to define risk cleanly, simply because risk itself bear
 We all have various understandings and definitions of risk, and to argue what risk is, universally, would be a fruitless endeavor. So instead, let me put forth a hypothetical.
 
 Consider the following premise: 
-> "You have USD $20,000 in your brokerage account. You cannot add more. You decide to fully bet all USD $20,000 into a 5% OTM 1dte QQQ put." Translated, that means: if the NASDAQ doesn't drop — and drop extremely hard and extremely fast — tomorrow, you lose all USD $20,000. If, by some miracle of heaven, the U.S. government decides to outlaw share buybacks and dividends for all U.S. listed stocks tomorrow, and the NASDAQ crashes 10% on open, you net — let's say — USD $750,000."
+> You have USD $20,000 in your brokerage account. You cannot add more. You decide to fully bet all USD $20,000 into a 5% OTM 1dte QQQ put. Translated, that means: if the NASDAQ doesn't drop — and drop extremely hard and extremely fast — tomorrow, you lose all USD $20,000. If, by some miracle of heaven, the U.S. government decides to outlaw share buybacks and dividends for all U.S. listed stocks tomorrow, and the NASDAQ crashes 10% on open, you net — let's say — USD $750,000.
 
 Question: would you consider this risky?
 
