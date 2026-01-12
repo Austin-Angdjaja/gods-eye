@@ -75,7 +75,7 @@ It is imperative you adopt a similar mindset. If you can't reasonably look at a 
 
 Again, I repeat: being wrong is tolerable, losing is not.
 
-> A bit of advice: If any particular trade / investment makes you anxious, or you feel an overwhelming sense to sit and stare and micromanage, you are oversizing.
+> A bit of advice: If any particular trade / investment makes you anxious, or you feel an overwhelming sense of need to sit and stare and micromanage, you are oversizing.
 
 # THE CASE FOR CONTEXT
 A lot in the market boils down to numbers. A lot in the market also boils down to context. It is for this reason that one must develop their own intuitions for sizing. Sizing is, by nature, principle-driven, judgement-heavy, context-sensitive, and very much so personal. Understand that what you consider good sizing, may be what others consider over/under sizing, and vice versa.
