@@ -40,7 +40,7 @@ You lost.
 
 Losing, in this case, means you hit $0.
 
-Which brings us to our first mandate.
+Here's the God's Eye mandate:
 
 ### "The risk of ruin must be minimized, eliminated, or held as close to zero as reality allows."
 
