@@ -120,10 +120,15 @@ Consider the following two examples.
 # THE BUTCHER
 Scenario:
 > Large cap index (QQQ).
+> 
 > FOMC just passed.
+> 
 > Volatility was bid into the event, collapses immediately after.
+> 
 > Directional uncertainty remains.
+> 
 > Range compression highly likely.
+> 
 
 Targeting logic:
 - The risk event is gone.
@@ -143,9 +148,12 @@ Why?
 Translated: boring, repeatable, survivable. The **structure** itself is asymmetric, even though payoff is small.
 
 # THE SURGEON
-> Fahrenheit Mining Co.,
+> Fahrenheit Mining Co.
+> 
 > Management's decision on bailout vote.
+> 
 > Stock priced as if chapter 11 is imminent.
+> 
 
 Targeting logic:
 - Downside already priced near extinction.
