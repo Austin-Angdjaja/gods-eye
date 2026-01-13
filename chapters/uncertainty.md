@@ -1,4 +1,4 @@
-# WHAT YOU DON'T KNOW, YOU DON'T KNOW
+# WHAT YOU DON'T KNOW
 There is always uncertainty in the market, that much is a fact. To confidently say that you are "sure" of a particular investment / trade is downright amateur and speaks volumes of your time in the market. Risk managers are never "certain" of anything — that's the whole point of risk management.
 
 Get comfortable with the idea that the default operating environment is one where you:
