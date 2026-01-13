@@ -91,7 +91,7 @@ What is the expected payoff if Fahrenheit Mining Co. declines McKay's offer? Wel
 
 Payoff is:
 - How much you potentially win.
-- how much you potentially lose. 
+- How much you potentially lose. 
 
 # ODDS + PAYOFF = ASYMMETRY
 That is the only equation you should consider when targeting any trade / investment. What are the odds you succeed? And if you do succeed, what is the payoff? Does the payoff compensate for the amount of risk taken?
