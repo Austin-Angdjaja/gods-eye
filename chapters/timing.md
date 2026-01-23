@@ -126,7 +126,7 @@ Notice the shift.
 
 Probability has collapsed.
 
-# AND THE PROBLEM OF FEASABILITY DECAY
+# AND THE PROBLEM OF FEASIBILITY DECAY
 The question is binary. "Will Intel announce foundry customers by H2 2026?"
 
 That's a yes or a no.
@@ -168,8 +168,6 @@ If none of these preconditions manifest by Q3 earnings, then one of two things i
 Either way, the trade thesis is violated or massively weakened, even though it may not have fully resolved.
 
 You are now essentially paying theta to express a trade with substantially less probability of manifesting.
-
-Is that worth it?
 
 # CONCLUDING
 Timing is not exposure to time, per se; timing is exposure to belief updates. This chapter sounds and feels very wishy-washy because timing is, in fact, nothing concrete. There is no way to perfectly time the drop of a catalyst, nor is there any way to tell whether said catalyst will manifest at all. Timing, in the God's Eye sense, is not the act of calling tops or bottoms, but the act of assessing changes of time distribution.
