@@ -33,7 +33,7 @@ How does this tie back to fault lines? Notice: the downside had been fully monet
 
 If the market is pricing in maximum pessimism, and the reality wasn't maximum pessimism — say, perhaps just "bad, not terrible," then the upside is unbounded, and the downside is more or less capped. The situation then poses asymmetry. If Intel wasn't in as bad of a position as the market anticipated, a violent repricing upwards was in order, and if Intel was indeed in as bad of a position, then the downside has been priced in to begin with.
 
-> Note: When I say, "the downside is more or less capped," I do not mean that the company has 0% chance of declining further. I mean that incremental bad outcomes no longer produce incremental repricing. Simply put, the market has begun discounting further "undesirable catalysts," because the market has reached a point of pricing in "all good, nothing good possible."
+> Note: When I say, "the downside is more or less capped," I do not mean that the company has 0% chance of declining further. I mean that incremental bad outcomes no longer produce incremental repricing. Simply put, the market has begun discounting further "undesirable catalysts," because the market has reached a point of pricing in "all bad, nothing good possible."
 
 God's Eye looks for asymmetry where asymmetry is not obvious. Fault lines are one such "not-so-obvious" asymmetry, because the market — you and I included — will never know the objective truth to a company's situation until said situation has come to pass. In other words, we can not know what will happen until what will happen has happened. We can only infer.
 
