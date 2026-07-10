@@ -1,10 +1,9 @@
 # God's Eye — Return Series
 
-**Sharpe (annualized):** 1.87  
-**Sortino (annualized):** 8.58 — 8.93*  
+**Sharpe (annualized):** ~1.98  
+**Sortino (annualized):** ~10.02
 
-*Range reflects denominator convention (n-1 vs n). 
-Calculated against 4.3% annual risk-free rate. 
+Calculated against 4.5% annual risk-free rate. 
 
 **Max Drawdown:** -73.68%  
 **Inception:** May 2025  
@@ -25,3 +24,4 @@ Calculated against 4.3% annual risk-free rate.
 | Mar 2026 | -71.85% | +399.76% |
 | Apr 2026 | +364.96% | +1838.55% |
 | May 2026 | +43.81% | +2689.67% |
+| Jun 2026 | +1.42% | +2728.94% |
